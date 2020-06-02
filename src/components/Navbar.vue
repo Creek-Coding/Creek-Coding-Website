@@ -15,7 +15,7 @@
                 <div class="navbar-end">
 
                     <span class="navbar-item">
-                       <a class="button is-light">
+                       <a class="button is-danger is-inverted">
                        <span class="icon">
                            <i class="fa fa-envelope is-inverted"></i>
                        </span>
@@ -24,7 +24,7 @@
                    </span>
 
                     <span class="navbar-item">
-                       <a class="button is-info is-inverted">
+                       <a class="button is-link is-inverted">
                        <span class="icon">
                            <i class="fa fa-twitter is-inverted"></i>
                        </span>
@@ -32,7 +32,7 @@
                        </a>
                    </span>
                     <span class="navbar-item">
-                       <a class="button is-info">
+                       <a class="button is-info is-inverted">
                        <span class="icon">
                            <i class="fa fa-github"></i>
                        </span>

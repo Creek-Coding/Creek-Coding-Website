@@ -21,9 +21,9 @@
     @import '~font-awesome/scss/font-awesome';
 
     /*! bulmaswatch v0.8.1 | MIT License */
-    @import "~bulmaswatch/flatly/variables";
+    @import "~bulmaswatch/lumen/variables";
     @import "~bulma/bulma";
-    @import "~bulmaswatch/flatly/overrides";
+    @import "~bulmaswatch/lumen/overrides";
 </style>
 
 <script>
