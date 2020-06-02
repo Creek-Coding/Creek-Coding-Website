@@ -1,0 +1,23 @@
+<template>
+    <div class="content is-large">
+        <h1>Our Leadership</h1>
+        <ul>
+            <li>Adam Nguyen - Director of Curriculum and Instruction</li>
+            <li>Jonathan Chacko - Director of Operations</li>
+            <li>Josh Diaz - Director of Innovation</li>
+            <li>Kaylan Tchamdjou - Director of Design</li>
+            <li>George Osipov - Director of Procurement and Sourcing</li>
+            <li>Jalan Rivers - Director of Marketing</li>
+        </ul>
+    </div>
+</template>
+
+<script>
+    export default {
+        name: "Leadership"
+    }
+</script>
+
+<style scoped>
+
+</style>
