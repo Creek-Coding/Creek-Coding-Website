@@ -9,8 +9,7 @@
         <p>We believe that anyone should be able to have access to high quality, instructional content to learn to code
             from scratch.
             We know that simply reading textbooks isn't the way to learn coding. It's boring and you make slow progress.
-            Aiming to teach through <b>Project Based Learning</b>, we practice and learn new skills by making new
-            projects. At Hack Club,
+            Aiming to teach through <b>Project Based Learning</b>, we practice and learn new skills by making. At Hack Club,
             students are encouraged to build projects every week. Lightbulb Education Code provides high-quality,
             beginner focused
             tutorials on how to make simple but fun projects.</p>

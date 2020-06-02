@@ -6,7 +6,7 @@
 
         <div class="hero-body">
             <div class="container">
-                <p class="title is-1">
+                <p class="title is-1 is-size-3-mobile">
                     Creek Coding is a student run organization that advocates Computer Science literacy in and out the
                     classroom.
                 </p>

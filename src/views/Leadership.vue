@@ -1,6 +1,7 @@
 <template>
     <div class="content is-large">
         <h1>Our Leadership</h1>
+        <p>Creek Coding is managed by a Board of Directors with a diverse set of skillsets and backgrounds.</p>
         <ul>
             <li>Adam Nguyen - Director of Curriculum and Instruction</li>
             <li>Jonathan Chacko - Director of Operations</li>
