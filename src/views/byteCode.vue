@@ -5,7 +5,9 @@
                 for beginning and seasoned programmers alike. So far, we have a series for learning Java and another one for
                 Python, with coding livestreams coming in the near future.</p>
             <YouTubeButton/>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/D0UtdNPayWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <figure class="image is-16by9">
+                <iframe class="has-ratio" width="560" height="315" src="https://www.youtube.com/embed/D0UtdNPayWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </figure>
         </div>
     </div>
 

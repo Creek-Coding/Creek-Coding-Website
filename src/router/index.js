@@ -36,7 +36,7 @@ const routes = [
         component: LightbulbEduCode
     }, {
         path: '/leadership',
-        name: 'Home',
+        name: 'Leadership',
         component: Leadership
     },
 

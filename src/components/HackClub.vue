@@ -6,7 +6,12 @@
             and building projects.</p>
         <p class="subtitle is-4">Hack Club also provides online student hackathons, coding tutorials, and AMAs with
             interesting people in tech.</p>
-        <a href="https://hackclub.com/" class="button is-primary is-large">See Hack Club</a>
+        <div class="buttons">
+            <a href="https://hackclub.com/" class="button is-primary is-large">See Hack Club</a>
+        </div>
+        <div class="buttons">
+            <a href="https://google.hack.schs.club/" class="button">See Our Presentation for Humble ISD</a>
+        </div>
     </div>
 
 </template>
