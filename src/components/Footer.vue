@@ -3,8 +3,8 @@
         <div class="content has-text-centered">
             <!--TODO add all site contributors -->
             <p>
-                <strong>Made</strong> by <a href="https://jchacko.dev">Jonathan Chacko</a>.
-                Copyright Creek Coding, 2020
+                Made by <a href="https://jchacko.dev">Jonathan Chacko</a> and the Creek Coding team. |
+                Creek Coding © 2020
             </p>
         </div>
     </footer>
