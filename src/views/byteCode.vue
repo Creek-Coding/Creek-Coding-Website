@@ -2,6 +2,7 @@
     <div id="hackschs">
         <div class="content is-large columns">
             <div class="column">
+                <h1>About byteCode</h1>
                 <p>byteCode is our YouTube channel, focused on creating programming language guides and engaging tutorials
                 for beginning and seasoned programmers alike.</p>
                 <h1>Upload Schedule</h1>
@@ -15,7 +16,7 @@
 
             </div>
             <div class="column">
-                <h1>Check out one of our videos here:</h1>
+                <h1>Featured Video:</h1>
                 <figure class="image is-16by9">
                     <iframe class="has-ratio" width="560" height="315" src="https://www.youtube.com/embed/D0UtdNPayWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </figure>
