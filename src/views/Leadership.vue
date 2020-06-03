@@ -8,7 +8,7 @@
             <li>Josh Diaz - Director of Innovation</li>
             <li>Kaylan Tchamdjou - Director of Design</li>
             <li>George Osipov - Director of Procurement and Sourcing</li>
-            <li>Jalan Rivers - Director of Marketing</li>
+            <li>Jalan Rivers - Director of Marketing and Python Curriculum Manager</li>
         </ul>
     </div>
 </template>
