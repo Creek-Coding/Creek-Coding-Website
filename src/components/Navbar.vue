@@ -13,32 +13,38 @@
             </div>
             <div id="navbarMenuHeroB" class="navbar-menu">
                 <div class="navbar-end">
-
                     <span class="navbar-item">
-                       <a class="button is-danger is-inverted">
+                       <a class="button is-danger is-inverted" href="mailto:contact@creekcoding.com">
                        <span class="icon">
                            <i class="fa fa-envelope is-inverted"></i>
                        </span>
                        <span>Contact</span>
                        </a>
-                   </span>
-
+                    </span>
                     <span class="navbar-item">
-                       <a class="button is-link is-inverted">
+                       <a class="button is-link is-inverted" href="https://twitter.com/creekcoding">
                        <span class="icon">
                            <i class="fa fa-twitter is-inverted"></i>
                        </span>
                        <span>Twitter</span>
                        </a>
-                   </span>
+                    </span>
                     <span class="navbar-item">
-                       <a class="button is-info is-inverted">
+                       <a class="button is-info is-inverted" href="https://github.com/Creek-Coding">
                        <span class="icon">
                            <i class="fa fa-github"></i>
                        </span>
                        <span>Github</span>
                        </a>
-                   </span>
+                    </span>
+                    <span class="navbar-item">
+                       <a class="button is-warning is-inverted" href="https://bank.hackclub.com/donations/start/schs">
+                       <span class="icon">
+                           <i class="fa fa-dollar"></i>
+                       </span>
+                       <span>Donate</span>
+                       </a>
+                    </span>
                 </div>
             </div>
         </div>
