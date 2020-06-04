@@ -22,7 +22,7 @@
                        </a>
                     </span>
                     <span class="navbar-item">
-                       <a class="button is-link is-inverted" href="https://twitter.com/creekcoding">
+                       <a class="button is-link is-inverted" href="https://twitter.com/creekcoding" target="_blank">
                        <span class="icon">
                            <i class="fa fa-twitter is-inverted"></i>
                        </span>
@@ -30,7 +30,7 @@
                        </a>
                     </span>
                     <span class="navbar-item">
-                       <a class="button is-info is-inverted" href="https://github.com/Creek-Coding">
+                       <a class="button is-info is-inverted" href="https://github.com/Creek-Coding" target="_blank">
                        <span class="icon">
                            <i class="fa fa-github"></i>
                        </span>
@@ -38,7 +38,7 @@
                        </a>
                     </span>
                     <span class="navbar-item">
-                       <a class="button is-warning is-inverted" href="https://bank.hackclub.com/donations/start/schs">
+                       <a class="button is-warning is-inverted" href="https://bank.hackclub.com/donations/start/schs" target="_blank">
                        <span class="icon">
                            <i class="fa fa-dollar"></i>
                        </span>

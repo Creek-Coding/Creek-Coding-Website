@@ -5,19 +5,19 @@
                 <h1>About byteCode</h1>
                 <p>byteCode is our YouTube channel, focused on creating programming language guides and engaging tutorials
                 for beginning and seasoned programmers alike.</p>
+                <YouTubeButton/>
+
                 <h1>Upload Schedule</h1>
                 <ul>
                     <li>Tuesday: Programming in Java</li>
                     <li>Thursday: Learning Python</li>
                     <li>Saturday @ 1:00 PM CST: Code With Us!</li>
                 </ul>
-                <h1>Subscribe!</h1>
-                <YouTubeButton/>
 
             </div>
             <div class="column">
                 <h1>Featured Video:</h1>
-                <figure class="image is-16by9">
+                <figure id="figure" class="image is-16by9">
                     <iframe class="has-ratio" width="560" height="315" src="https://www.youtube.com/embed/D0UtdNPayWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </figure>
             </div>
@@ -35,5 +35,7 @@
 </script>
 
 <style scoped>
-
+#figure{
+    margin: 0;
+}
 </style>

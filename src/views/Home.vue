@@ -21,13 +21,19 @@
         <p>Of course, coding isn't for everyone. But you won't know until you <b>try</b>. And even if you don't choose
             it as a career path, you'll still have a valuable skill for the future</p>
         <h1>How to get involved</h1>
-        <p>If you're a student at any of the schools we serve (<a href="/schs">SCHS</a> & <a href="/wms">WMS</a>), come
+        <p>If you're a student at any of the schools we serve (
+            <router-link to="/hackschs">SCHS</router-link>
+            &
+            <router-link to="/hackwms">WMS</router-link>
+            ), come
             to our Hack Club sessions! If you're around our area, talk to your teacher about starting a coding club and
-            we can work with them to get one going! And finaly, if you're not from around here, check out our online
-            learning options. Learn on your own with fun projects at <a href="https://code.lightbulb.education">Lightbulb
-            Education Code</a>, or binge videos from our YouTube channel
-            <a href="https://www.youtube.com/channel/UCHeRnkORi2B3G4kbSyhBtqA">byteCode</a>!</p>
-        <p>Are you a company interested in equiping the next generation with the skills necessary to succeed in an increasingly tech-focused workplace? Reach out to us <a href="mailto:contact@creekcoding.com">here</a>.</p>
+            we can work with them to get one going! And finally, if you're not from around here, check out our online
+            learning options. Learn on your own with fun projects at
+            <a href="https://code.lightbulb.education" target="_blank">Lightbulb Education Code</a>, or binge videos from
+            our YouTube channel <a href="https://www.youtube.com/channel/UCHeRnkORi2B3G4kbSyhBtqA" target="_blank">byteCode</a>!
+        </p>
+        <p>Are you a company interested in equiping the next generation with the skills necessary to succeed in an
+            increasingly tech-focused workplace? Reach out to us at <a href="mailto:contact@creekcoding.com">contact@creekcoding.com</a>.</p>
 
     </div>
 </template>

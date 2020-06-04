@@ -4,6 +4,13 @@
             <p>
                 Copyright © Creek Coding 2020
             </p>
+
+            <a href="https://github.com/Creek-Coding/Creek-Coding-Website" target="_blank" class="button is-dark">
+                <span class="icon">
+                    <i class="fa fa-github"> </i>
+                </span>
+                <span>GitHub</span>
+            </a>
         </div>
     </footer>
 </template>
