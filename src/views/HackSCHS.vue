@@ -6,7 +6,7 @@
                 <div class="column">
                     <h2>Learn</h2>
                     <p>Don't know how to code at all? That's perfectly fine! Come to our classes Thursday afterschool
-                        (or watch the livestream)! No experience is required and laptops are provided.
+                        (or watch the livestream)! <b>You don't have to have any prior experience and laptops are provided.</b>
                     </p>
                 </div>
                 <div class="column">

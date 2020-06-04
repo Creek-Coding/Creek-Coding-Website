@@ -1,6 +1,7 @@
 <template>
     <div class="content is-large">
-        <p>Lightbulb Education Code offers high-quality step by step project focused coding tutorials. These are
+        <h1>Lightbulb Education Code</h1>
+        <p><b>Lightbulb Education Code offers high-quality step by step project focused coding tutorials.</b> These are
             designed for
             skill levels from absolute beginner to intermediate level. Tutorials are also organized into courses,
             so that students can build up their skills by making progressively more challenging projects with a common

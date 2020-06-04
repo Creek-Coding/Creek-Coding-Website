@@ -7,16 +7,16 @@
                 for beginning and seasoned programmers alike.</p>
                 <YouTubeButton/>
 
-                <h1>Upload Schedule</h1>
+                <h2 >Upload Schedule</h2>
                 <ul>
-                    <li>Tuesday: Programming in Java</li>
-                    <li>Thursday: Learning Python</li>
-                    <li>Saturday @ 1:00 PM CST: Code With Us!</li>
+                    <li><b>Tuesday</b>: Programming in Java</li>
+                    <li><b>Thursday</b>: Learning Python</li>
+                    <li><b>Saturday @ 1:00 PM CST</b>: Code With Us! (Livestream)</li>
                 </ul>
 
             </div>
             <div class="column">
-                <h1>Featured Video:</h1>
+                <h2>Featured Video:</h2>
                 <figure id="figure" class="image is-16by9">
                     <iframe class="has-ratio" width="560" height="315" src="https://www.youtube.com/embed/D0UtdNPayWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </figure>

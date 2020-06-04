@@ -3,12 +3,12 @@
         <h1>Our Leadership</h1>
         <p>Creek Coding is managed by a Board of Directors with a diverse set of skillsets and backgrounds.</p>
         <ul>
-            <li>Adam Nguyen - Director of Curriculum and Instruction</li>
-            <li>Jonathan Chacko - Director of Operations</li>
-            <li>Josh Diaz - Director of Innovation</li>
-            <li>Kaylan Tchamdjou - Director of Design</li>
-            <li>George Osipov - Director of Procurement and Sourcing</li>
-            <li>Jalan Rivers - Director of Marketing and Python Curriculum Manager</li>
+            <li><b><a href="https://adamn.dev/" target="_blank">Adam Nguyen</a></b> - Director of Curriculum and Instruction</li>
+            <li><b><a href="https://jchacko.dev" target="_blank">Jonathan Chacko</a></b> - Director of Operations</li>
+            <li><b>Josh Diaz</b> - Director of Innovation</li>
+            <li><b>Kaylan Tchamdjou</b> - Director of Design</li>
+            <li><b>George Osipov</b> - Director of Procurement and Sourcing</li>
+            <li><b>Jalan Rivers</b> - Director of Marketing and Python Curriculum Manager</li>
         </ul>
     </div>
 </template>
