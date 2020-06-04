@@ -1,26 +1,29 @@
 <template>
     <div id="hackschs">
         <div class="content is-large">
-            <h1>What is Hack Club?</h1>
-            <p>Despite its name, Hack Club is actually a coding club focused on building and creating. We're a part of an international Hack Club community that consists of hundreds of clubs all around the world!
-            </p>
-            <div class="buttons">
-                <a href="https://hackclub.com/" class="button is-primary is-large">The Hack Club Network</a>
-            </div>
+            <HackClub/>
             <div class="columns">
                 <div class="column">
-                    <h1>Learn</h1>
-                    <p>Don't know how to code at all? That's perfectly fine! Come to our classes Thursday afterschool (or watch the livestream)! No experience is required and laptops are provided.
+                    <h2>Learn</h2>
+                    <p>Don't know how to code at all? That's perfectly fine! Come to our classes Thursday afterschool
+                        (or watch the livestream)! No experience is required and laptops are provided.
                     </p>
                 </div>
                 <div class="column">
-                    <h1>Create</h1>
-                    <p>Want to make something cool with coding? Come to our regular Hack Club sessions on Tuesdays afterschool and check out the projects we're working on. You can join some of your peers or start your own project. Whatever you do, you'll have a room full of people ready to help you out. Psst, did we mention free snacks?
+                    <h2>Create</h2>
+                    <p>Want to code something amazing? Come to our Hack Club meetings on Tuesdays afterschool and check
+                        out the projects we're working on. You can join some of your peers or start your own project.
+                        Whatever you do, you'll have a room full of people ready to help you out. <i>Psst, did we
+                            mention free snacks?</i>
                     </p>
                 </div>
                 <div class="column">
-                    <h1>Teach</h1>
-                    <p>Do you enjoy working with kids and/or want to help others learn how to code? Come help out at the local elementary and middle schools! Currently we are at WMS Tuesdays from 4:00 - 5:00. It's a fun and rewarding experience to see kids engaged in coding and a chance to earn volunteer hours.
+                    <h2>Teach</h2>
+                    <p>Do you enjoy working with kids and/or want to help others learn how to code? Come help out at the
+                        local elementary and middle schools!
+                        <router-link to="/hackwms">Currently we are at WMS Tuesdays from 4:00 - 5:00</router-link>.
+                        It's a fun and rewarding experience to see kids engaged in coding and a chance to earn
+                        volunteer hours.
                     </p>
                 </div>
             </div>
@@ -47,12 +50,16 @@
 </template>
 
 <script>
+    import HackClub from "../components/HackClub";
+
     export default {
         name: "HackSCHS",
-        components: {}
+        components: {HackClub}
     }
 </script>
 
 <style scoped>
-
+    .columns{
+        padding-top: 1rem;
+    }
 </style>
