@@ -6,9 +6,22 @@
 
         <div class="hero-body">
             <div class="container">
-                <p class="title is-1 is-size-3-mobile">
-                    Creek Coding is a student run organization that advocates Computer Science literacy in and out of the classroom.
-                </p>
+                <div class="columns is-vcentered is-centered">
+                    <div class="column is-one-fifth is-centered">
+                        <div class="has-text-centered">
+                            <figure class="image is-inline-block">
+                                <img src="../assets/logo.png" style="max-height: 256px; max-width: 256px">
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <p class="title is-1 is-size-3-mobile">
+                            Creek Coding is a student run organization that advocates Computer Science literacy in and out of the classroom.
+                        </p>
+                    </div>
+                </div>
+
+
             </div>
         </div>
 
