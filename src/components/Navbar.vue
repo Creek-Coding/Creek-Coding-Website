@@ -38,7 +38,7 @@
                        </a>
                     </span>
                     <span class="navbar-item">
-                       <a class="button is-warning is-inverted" href="https://bank.hackclub.com/donations/start/creekcoding" target="_blank">
+                       <a class="button is-warning is-inverted" href="https://creekcoding.com/donate" target="_blank">
                        <span class="icon">
                            <i class="fa fa-dollar"></i>
                        </span>

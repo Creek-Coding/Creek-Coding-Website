@@ -58,7 +58,13 @@ const routes = [
         meta: {
             title: prepend + "Leadership",
         }
-    },
+    }, {
+        path: '/donate',
+        beforeEnter() {
+            // Put the full page url including the protocol http(s) below
+            window.location.replace("https://bank.hackclub.com/donations/start/creekcoding")
+        }
+    }
 
 
 ]
