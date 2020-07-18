@@ -7,7 +7,7 @@
               <img src="https://bulma.io/images/placeholders/1280x960.png" alt="">
             </p>
             <br>
-            <a class="button is-primary is-fullwidth is-large" href="https://cartel.creekcoding.com/product/pre-order-2020-creek-coding-cartel-shirt">Preorder Now!</a>
+            <a class="button is-primary is-fullwidth is-large" href="https://cartel.creekcoding.com/product/pre-order-2020-creek-coding-cartel-shirt" target="_blank">Preorder Now!</a>
 
         </div>
         <button class="modal-close is-large" aria-label="close" @click="closeModal"></button>
