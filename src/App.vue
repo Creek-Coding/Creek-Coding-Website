@@ -5,28 +5,7 @@
         <!--      <router-link to="/about">About</router-link>-->
         <!--    </div>-->
 
-
-
-        <!-- Modal -->
-        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="false">
-          <div class="modal-dialog" role="document">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">New Merch Available!</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                </button>
-              </div>
-              <div class="modal-body">
-                ...
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
+        <Modal/>
         <Hero/>
         <div class="container section">
             <router-view/>
@@ -51,9 +30,10 @@
 <script>
     import Hero from "./components/Hero";
     import Footer from "./components/Footer";
+    import Modal from "./components/Modal";
 
     export default {
-        components: {Footer, Hero},
+        components: {Footer, Hero, Modal},
         // mounted() {
         //     if (document.getElementById('yt-platform-js')) return; // was already loaded
         //     var scriptTag = document.createElement("script");
