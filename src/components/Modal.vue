@@ -26,7 +26,7 @@
         },
         methods: {
             addCookie: function(){
-                //Cookies.set("modal", true, {expires: 7})
+                Cookies.set("modal", true, {expires: 7})
             },
             closeModal: function(){
                 this.isActive = false;
