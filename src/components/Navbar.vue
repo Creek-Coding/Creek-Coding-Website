@@ -16,7 +16,7 @@
                     <span class="navbar-item">
                        <a class="button is-inverted" href="https://cartel.creekcoding.com">
                        <span class="icon">
-                           <i class="fa fa-dollar is-inverted"></i>
+                           <i class="fa fa-tshirt is-inverted"></i>
                        </span>
                        <span>The Cartel</span>
                        </a>
