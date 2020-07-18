@@ -14,6 +14,14 @@
             <div id="navbarMenuHeroB" class="navbar-menu">
                 <div class="navbar-end">
                     <span class="navbar-item">
+                       <a class="button is-inverted" href="https://cartel.creekcoding.com">
+                       <span class="icon">
+                           <i class="fa fa-dollar is-inverted"></i>
+                       </span>
+                       <span>The Cartel</span>
+                       </a>
+                    </span>
+                    <span class="navbar-item">
                        <a class="button is-danger is-inverted" href="mailto:contact@creekcoding.com">
                        <span class="icon">
                            <i class="fa fa-envelope is-inverted"></i>
@@ -38,7 +46,7 @@
                        </a>
                     </span>
                     <span class="navbar-item">
-                       <a class="button is-warning is-inverted" href="https://creekcoding.com/donate" target="_blank">
+                       <a class="button is-success is-inverted" href="https://creekcoding.com/donate" target="_blank">
                        <span class="icon">
                            <i class="fa fa-dollar"></i>
                        </span>

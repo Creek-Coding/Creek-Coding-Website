@@ -5,6 +5,28 @@
         <!--      <router-link to="/about">About</router-link>-->
         <!--    </div>-->
 
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="false">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">New Merch Available!</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                ...
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <Hero/>
         <div class="container section">
             <router-view/>
@@ -40,4 +62,6 @@
         //     document.getElementsByTagName('head')[0].appendChild(scriptTag);
         // }
     }
+
+
 </script>

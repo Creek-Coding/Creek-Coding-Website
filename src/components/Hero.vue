@@ -4,7 +4,9 @@
             <Navbar/>
         </div>
 
-        <div class="hero-body">
+        
+
+        <div class="hero-body" id="hero-body">
             <div class="container">
                 <div class="columns is-vcentered is-centered">
                     <div class="column is-one-fifth is-centered">
@@ -74,6 +76,8 @@
 
 <script>
     import Navbar from "./Navbar";
+
+
 
     export default {
         name: "Hero.vue",
