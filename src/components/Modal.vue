@@ -3,9 +3,9 @@
         <div class="modal-background" @click="isActive = false"></div>
         <div class="modal-content box">
             <p class="has-text-centered title is-1">New Merch Available!</p>
-            <p class="image is-4by3">
+            <!--p class="image is-4by3">
               <img src="https://bulma.io/images/placeholders/1280x960.png" alt="">
-            </p>
+            </p-->
             <br>
             <a class="button is-primary is-fullwidth is-large" href="https://cartel.creekcoding.com/product/pre-order-2020-creek-coding-cartel-shirt" target="_blank">Preorder Now!</a>
 
