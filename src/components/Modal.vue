@@ -1,6 +1,6 @@
 <template>
     <div class="modal" v-bind:class="{ 'is-active': isActive }">
-        <div class="modal-background" @click="isActive = false"></div>
+        <div class="modal-background" @click="closeModal"></div>
         <div class="modal-content box">
             <p class="has-text-centered title is-1">New Merch Available!</p>
             <!--p class="image is-4by3">
