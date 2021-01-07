@@ -5,7 +5,7 @@
         <!--      <router-link to="/about">About</router-link>-->
         <!--    </div>-->
 
-        <Modal/>
+        <!-- <Modal/> -->
         <Hero/>
         <div class="container section">
             <router-view/>
@@ -30,10 +30,14 @@
 <script>
     import Hero from "./components/Hero";
     import Footer from "./components/Footer";
-    import Modal from "./components/Modal";
+    //import Modal from "./components/Modal";
 
     export default {
-        components: {Footer, Hero, Modal},
+        components: {
+            Footer, 
+            Hero, 
+            //Modal,
+        },
         // mounted() {
         //     if (document.getElementById('yt-platform-js')) return; // was already loaded
         //     var scriptTag = document.createElement("script");

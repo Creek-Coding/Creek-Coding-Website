@@ -20,6 +20,11 @@
                         <p class="title is-1 is-size-3-mobile">
                             Creek Coding is a student run organization that advocates Computer Science literacy in and out of the classroom.
                         </p>
+
+                        <a class="button is-medium is-link">
+                            I'm at Hack Club!
+                        </a>
+                        
                     </div>
                 </div>
 

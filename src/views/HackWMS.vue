@@ -1,8 +1,8 @@
 <template>
     <div class="content is-large">
         <HackClub/>
-        <h2>Projects</h2>
-        <div class="project-list">
+        <!-- <h2>Projects</h2> -->
+        <!-- <div class="project-list">
             <div class="box">
                 <h4>Personal Website Project</h4>
                 <p>We made a website</p>
@@ -13,6 +13,9 @@
                 <p>This is a discord bot</p>
                 <a href="" class="button">Make it</a>
             </div>
+        </div> -->
+        <div class="box">
+                <h2>Hack Club at WMS is temporarily suspended. We will be updating this page soon.</h2>
         </div>
     </div>
 </template>
