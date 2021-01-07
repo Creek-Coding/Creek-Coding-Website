@@ -21,7 +21,7 @@
                             Creek Coding is a student run organization that advocates Computer Science literacy in and out of the classroom.
                         </p>
 
-                        <a class="button is-medium is-link">
+                        <a class="button is-medium is-link" href="https://www.notion.so/creekcoding/First-Meeting-of-the-Year-77733b1d18ab4c0396c52a52ca276419">
                             I'm at Hack Club!
                         </a>
                         
