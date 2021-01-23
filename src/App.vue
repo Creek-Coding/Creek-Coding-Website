@@ -25,6 +25,38 @@
     @import "~bulmaswatch/lumen/variables";
     @import "~bulma/bulma";
     @import "~bulmaswatch/lumen/overrides";
+
+    .box{
+        &.is-primary{
+            background-color: $primary-light;
+            border-color: $primary;
+
+            p, h1, h2, h3, h4, h5, h6 {
+                color: $primary;
+            }
+        }
+        &.is-danger{
+            background-color: $danger-light;
+            border-color: $danger;
+
+            p, h1, h2, h3, h4, h5, h6 {
+                color: $danger;
+            }
+        }
+        &.is-success{
+            background-color: $success-light;
+            border-color: $success;
+
+            p, h1, h2, h3, h4, h5, h6 {
+                color: $success;
+            }
+        }
+    }
+
+    .is-fullheight{
+        height: 100%;
+    }
+
 </style>
 
 <script>

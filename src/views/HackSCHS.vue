@@ -2,19 +2,41 @@
     <div id="hackschs">
         <div class="content is-large">
             <HackClub/>
+
+            <div class="columns">
+                <div class="column">
+                    <div class="box is-primary is-fullheight">
+                        <h1 class="is-size-4">In-Person Hack Club</h1> 
+                        <p>
+                        Join us, every Tuesday afterschool in the <b>Army LGI</b> from 3:00 - 4:00 for a fun hour of code!
+                        Laptops will be provided.
+                        </p>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="box is-success is-fullheight">
+                        <h1 class="is-size-4">Virtual Hack Club</h1> 
+                        <p>Join us, every Thursday afterschool virtually from 4:30 - 5:30 for a fun hour of code!</p>
+                        <a class="button is-success" href="https://gather.town/app/IkptPf4CoHYmSjsc/hackclub" target="_blank">
+                        Join here
+                        </a>
+                    </div>
+                </div>
+            </div>
+
             <div class="columns">
                 <div class="column">
                     <h2>Learn</h2>
-                    <p>Don't know how to code at all? That's perfectly fine! Come to our classes Thursday afterschool
-                        (or watch the livestream)! <b>You don't have to have any prior experience and laptops are provided.</b>
+                    <p>Don't know how to code at all? That's perfectly fine! Come to our sessions Tuesday's and Thursday's afterschool! 
+                        <b>You don't have to have any prior experience and laptops are provided (for in person sessions).</b>
                     </p>
                 </div>
                 <div class="column">
                     <h2>Create</h2>
-                    <p>Want to code something amazing? Come to our Hack Club meetings on Tuesdays afterschool and check
+                    <p>Want to code something amazing? Come to our Hack Club meetings and check
                         out the projects we're working on. You can join some of your peers or start your own project.
-                        Whatever you do, you'll have a room full of people ready to help you out. <i>Psst, did we
-                            mention free snacks?</i>
+                        Whatever you do, you'll have a room full of people ready to help you out. <i><s>Psst, did we
+                            mention free snacks?</s> Snacks are indefinitely suspended due to the pandemic.</i>
                     </p>
                 </div>
                 <div class="column">
@@ -23,26 +45,10 @@
                         local elementary and middle schools!
                         <router-link to="/hackwms">Currently we are at WMS Tuesdays from 4:00 - 5:00</router-link>.
                         It's a fun and rewarding experience to see kids engaged in coding and a chance to earn
-                        volunteer hours.
+                        volunteer hours. HackWMS is scheduled to resume in the near future.
                     </p>
                 </div>
             </div>
-
-            <!--
-            <h2>Projects</h2>
-            <div class="project-list">
-                <div class="box">
-                    <h4>Personal Website Project</h4>
-                    <p>We made a website</p>
-                    <a href="" class="button">Make it</a>
-                </div>
-                <div class="box">
-                    <h4>Hack Bot</h4>
-                    <p>This is a discord bot</p>
-                    <a href="" class="button">Make it</a>
-                </div>
-            </div>
-            -->
 
         </div>
     </div>
@@ -58,7 +64,7 @@
     }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
     .columns{
         padding-top: 1rem;
     }
