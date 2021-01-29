@@ -64,6 +64,18 @@ const routes = [
             // Put the full page url including the protocol http(s) below
             window.location.replace("https://bank.hackclub.com/donations/start/creekcoding")
         }
+    }, {
+        path: '/join',
+        beforeEnter() {
+            // Put the full page url including the protocol http(s) below
+            window.location.replace("https://forms.gle/QGqXf9tp5WNXy2KN6")
+        }
+    }, {
+        path: '/account',
+        beforeEnter() {
+            // Put the full page url including the protocol http(s) below
+            window.location.replace("https://creek-coding-center.glideapp.io/")
+        }
     }
 
 

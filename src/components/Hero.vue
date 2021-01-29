@@ -9,6 +9,7 @@
         <div class="hero-body" id="hero-body">
             <div class="container">
                 <div class="columns is-vcentered is-centered">
+                    
                     <div class="column is-one-fifth is-centered">
                         <div class="has-text-centered">
                             <figure class="image is-inline-block">
@@ -20,10 +21,19 @@
                         <p class="title is-1 is-size-3-mobile">
                             Creek Coding is a student run organization that advocates Computer Science literacy in and out of the classroom.
                         </p>
-
-                        <a class="button is-medium is-link" href="https://www.notion.so/creekcoding/Creek-Coding-Projects-c66b7738968d47b19ea56cbe6806633d" target="_blank">
-                            I'm at Hack Club!
-                        </a>
+                        <div class="columns">
+                            <div class="column is-narrow">
+                                <a class="button is-medium is-link" href="https://www.notion.so/creekcoding/Creek-Coding-Projects-c66b7738968d47b19ea56cbe6806633d" target="_blank">
+                                    I'm at Hack Club!
+                                </a>
+                            </div>
+                            <div class="column is-narrow">
+                                <a class="button is-medium is-success" href="https://creek-coding-center.glideapp.io/" target="_blank">
+                                    Launch the app
+                                </a>
+                            </div>
+                        </div>
+                        
                         
                     </div>
                 </div>
