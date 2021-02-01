@@ -76,6 +76,12 @@ const routes = [
             // Put the full page url including the protocol http(s) below
             window.location.replace("https://creek-coding-center.glideapp.io/")
         }
+    }, {
+        path: '/discord',
+        beforeEnter() {
+            // Put the full page url including the protocol http(s) below
+            window.location.replace("https://discord.gg/DaUfE4b")
+        }
     }
 
 
