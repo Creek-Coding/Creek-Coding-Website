@@ -3,9 +3,9 @@
         <div class="container">
             <div class="navbar-brand">
                 <router-link to="/" class="navbar-item">
-                    <span class="subtitle is-3">Creek Coding</span>
+                    <span class="subtitle is-4">Creek Coding</span>
                 </router-link>
-                <span class="navbar-burger burger" data-target="navbarMenuHeroB">
+                <span class="navbar-burger burger has-text-white" data-target="navbarMenuHeroB">
             <span></span>
             <span></span>
             <span></span>
