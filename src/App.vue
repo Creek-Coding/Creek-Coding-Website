@@ -57,6 +57,10 @@
         height: 100%;
     }
 
+    .tabs li.is-active a {
+      color: $primary !important;
+    }
+
 </style>
 
 <script>
