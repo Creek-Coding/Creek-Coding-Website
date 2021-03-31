@@ -27,11 +27,11 @@
                                     I'm at Hack Club!
                                 </a>
                             </div>
-                            <div class="column is-narrow">
-                                <a class="button is-medium is-success" href="https://creek-coding-center.glideapp.io/" target="_blank">
+                            <!-- <div class="column is-narrow">
+                                <a class="button is-medium is-success" href="https://creekcoding.com/account" target="_blank">
                                     Launch the app
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
                         
                         
