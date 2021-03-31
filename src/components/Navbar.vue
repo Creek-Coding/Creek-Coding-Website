@@ -50,6 +50,14 @@
                        <span>Donate</span>
                        </a>
                     </span>
+                    <span class="navbar-item">
+                       <a class="button is-success" href="https://forms.gle/QGqXf9tp5WNXy2KN6" target="_blank">
+                       <span class="icon">
+                           <i class="fa fa-sign-in"></i>
+                       </span>
+                       <span>Join!</span>
+                       </a>
+                    </span>
                 </div>
             </div>
         </div>
