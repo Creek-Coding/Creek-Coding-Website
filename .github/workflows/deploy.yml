@@ -28,5 +28,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Build and Deploy to Firebase
         run: |
+          npm i @vue/cli-service
           npm run build
           firebase deploy
