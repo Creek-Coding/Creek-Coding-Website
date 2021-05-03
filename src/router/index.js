@@ -9,7 +9,7 @@ import Leadership from "../views/Leadership";
 
 Vue.use(VueRouter)
 
-const prepend = "Lightbulb Education - "
+const prepend = "Creek Coding - "
 
 const routes = [
     {
