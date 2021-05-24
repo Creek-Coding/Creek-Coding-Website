@@ -70,11 +70,11 @@
                             </li>
                         </router-link>
 
-                        <router-link to="/lightbulb-edu-code" v-slot="{ href, navigate, isActive }">
+                        <!-- <router-link to="/lightbulb-edu-code" v-slot="{ href, navigate, isActive }">
                             <li :class="[isActive && 'is-active']">
                                 <a :href="href" @click="navigate">Lightbulb Education Code</a>
                             </li>
-                        </router-link>
+                        </router-link> -->
 
                         <router-link to="/leadership" v-slot="{ href, navigate, isActive }">
                             <li :class="[isActive && 'is-active']">
