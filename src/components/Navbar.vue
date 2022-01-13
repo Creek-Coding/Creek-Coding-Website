@@ -13,11 +13,11 @@
             </div>
             <div id="navbarMenuHeroB" class="navbar-menu">
                 <div class="navbar-end">
-                    <span class="navbar-item">
+                    <!-- <span class="navbar-item">
                        <a class="button is-inverted" href="https://cartel.creekcoding.com">
                        <span>The Cartel</span>
                        </a>
-                    </span>
+                    </span> -->
                     <span class="navbar-item">
                        <a class="button is-danger is-inverted" href="mailto:contact@creekcoding.com">
                        <span class="icon">
