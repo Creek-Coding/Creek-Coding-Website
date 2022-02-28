@@ -9,10 +9,10 @@
             <li><b><a href="https://github.com/KaytchJam" target="_blank">Kaylan Tchamdjou</a></b> - Director of Design</li>
             <li><b>George Osipov</b> - Director of Procurement and Sourcing</li>
             <li><b>Jalan Rivers</b> - Director of Marketing and Python Curriculum Manager</li> -->
-            <li><b>Michael Davydov</b> - Director of Operations</li>
-            <li><b>Justin Impelman</b> - Director of Curriculum</li>
-            <li><b>Alan Abraham</b> - Director of Hack WMS</li>
-            <li><b>Jay Robison</b> - Director of Projects</li>
+            <li><b>Michael Davydov</b></li>
+            <li><b>Justin Impelman</b></li>
+            <li><b>Alan Abraham</b></li>
+            <li><b>Jay Robison</b></li>
 
 
         </ul>
