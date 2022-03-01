@@ -9,10 +9,10 @@
             <li><b><a href="https://github.com/KaytchJam" target="_blank">Kaylan Tchamdjou</a></b> - Director of Design</li>
             <li><b>George Osipov</b> - Director of Procurement and Sourcing</li>
             <li><b>Jalan Rivers</b> - Director of Marketing and Python Curriculum Manager</li> -->
-            <li><b>Michael Davydov</b></li>
-            <li><b>Justin Impelman</b></li>
-            <li><b>Alan Abraham</b></li>
-            <li><b>Jay Robison</b></li>
+            <li><b>Michael Davydov</b>- HackClubSCHS: Operations. Speacialties include C based languages, Game Engines, Java, Python.</li>
+            <li><b>Justin Impelman</b>- HackClubSCHS: Cirriculum. Speacialties include Java, Python.</li>
+            <li><b>Alan Abraham</b>- HackClubWMS: Director. Website devlopment, Javascript, HTML. </li>
+            <li><b>Jay Robison</b>- HackClubSCHS: Projects. Speacialties - Java, Python.</li>
 
 
         </ul>
