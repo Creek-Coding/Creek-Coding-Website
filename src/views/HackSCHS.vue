@@ -5,7 +5,7 @@
 
             <div class="columns">
                 <div class="column">
-                    <div class="box is-primary is-fullheight">
+                    <div class="box is-success is-fullheight">
                         <h1 class="is-size-4">In-Person Hack Club</h1> 
                         <p>
                         Join us, every Tuesday afterschool in the <b>library</b> from 3:00 - 4:00 for a fun hour of code!
