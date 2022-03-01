@@ -8,18 +8,9 @@
                     <div class="box is-primary is-fullheight">
                         <h1 class="is-size-4">In-Person Hack Club</h1> 
                         <p>
-                        Join us, every Tuesday afterschool in the <b>Army LGI</b> from 3:00 - 4:00 for a fun hour of code!
-                        Laptops will be provided.
+                        Join us, every Tuesday afterschool in the <b>library</b> from 3:00 - 4:00 for a fun hour of code!
+                        Computers will be provided, but feel free to bring your own!
                         </p>
-                    </div>
-                </div>
-                <div class="column">
-                    <div class="box is-success is-fullheight">
-                        <h1 class="is-size-4">Virtual Hack Club</h1> 
-                        <p>Join us, every Thursday afterschool virtually from 4:30 - 5:30 for a fun hour of code!</p>
-                        <a class="button is-success" href="https://gather.town/app/IkptPf4CoHYmSjsc/hackclub" target="_blank">
-                        Join here
-                        </a>
                     </div>
                 </div>
             </div>
