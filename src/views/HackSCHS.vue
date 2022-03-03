@@ -8,7 +8,7 @@
                     <div class="box is-success is-fullheight">
                         <h1 class="is-size-4">In-Person Hack Club</h1> 
                         <p>
-                        Join us, every Tuesday afterschool in the <b>library</b> from 3:00 - 4:00 for a fun hour of code!
+                        Join us, every Thursday afterschool in the <b>library</b> from 3:00 - 4:00 for a fun hour of code!
                         Computers will be provided, but feel free to bring your own!
                         </p>
                     </div>
