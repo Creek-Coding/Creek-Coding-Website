@@ -2,7 +2,7 @@
     <footer class="footer">
         <div class="content has-text-centered">
             <p>
-                Copyright © Creek Coding 2020
+                Copyright © Creek Coding 2022
             </p>
 
             <a href="https://github.com/Creek-Coding/Creek-Coding-Website" target="_blank" class="button is-dark">
