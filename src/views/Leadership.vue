@@ -11,7 +11,7 @@
             <li><b>Jalan Rivers</b> - Director of Marketing and Python Curriculum Manager</li> -->
             
             <li><b>Michael Davydov</b>- HackClubSCHS: Operations. Specialties include C based languages, Game Engines, Java, Python.</li>
-            <li><b>Justin Impelman</b>- HackClubSCHS: Cirriculum. Specialties include Java, Python.</li>
+            <li><b>Justin Impelman</b>- HackClubSCHS: Curriculum. Specialties include Java, Python.</li>
             <li><b>Alan Abraham</b>- HackClubWMS: Director. Specialties include Website devlopment, Javascript, HTML. </li>
             <li><b>Jay Robison</b>- HackClubSCHS: Projects. Specialties - Java, Python.</li>
 
