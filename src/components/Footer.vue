@@ -4,9 +4,6 @@
             <p>
                 Copyright © Creek Coding 2022
             </p>
-            <p>
-                Made by students, for students.
-            </p>
 
             <a href="https://github.com/Creek-Coding/Creek-Coding-Website" target="_blank" class="button is-dark">
                 <span class="icon">
